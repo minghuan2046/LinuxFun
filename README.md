@@ -53,7 +53,7 @@ LinuxFun , 你可以在 本项目中发现各种 Linux 使用技巧和趣味Demo
 ----
 本文使用 [`Markdown`](https://www.markdownguide.org/basic-syntax) 编写, 排版符合[`中文技术文档写作规范`](https://github.com/hbulpf/document-style-guide)。  [Find Me on Github](https://github.com/hbulpf/LinuxFun)
 
-友情贡献： @[`RunAtWorld`](https://github.com/RunAtWorld)    @[`请叫我明...小...唤.....，哈哈哈哈`]()  
+友情贡献： @[`RunAtWorld`](https://github.com/RunAtWorld)    @[`minghuan2046`](https://github.com/minghuan2046)  
 
 
 
